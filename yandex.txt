@@ -1,0 +1,510 @@
+ya.ru##.backdrop
+ya.ru##.dist-overlay__description
+ya.ru##.dist-overlay__title
+ya.ru##.dist-overlay__link-wrapper
+ya.ru##.dist-overlay__close-content
+ya.ru###search-list-right-0-R-I-8843654-1
+ya.ru##.SearchPageColumns-Right
+ya.ru##.taf3e10b.h8b96e5ea.v93fd1dd4.pb73cb63c.l50357227
+ya.ru##.PopupDesktop-Content
+ya.ru##.alice-fab > svg
+ya.ru##.DistributionLinkBro-Link.Link
+ya.ru##.AdvProductGallery_top.AdvProductGallery
+ya.ru##.HeaderDesktopActions-Item.HeaderDesktopActions-Button.HeaderDesktopActions-Cbir
+ya.ru##.HeaderDesktopActions-Item.HeaderDesktopActions-Button.HeaderDesktopActions-AdvancedSearch
+ya.ru##.HeaderDesktopActions-Button.HeaderDesktopActions-Item.VoiceInput_placeholder.VoiceInput
+ya.ru##.HeaderDesktopActions-Button.HeaderDesktopActions-Item.VoiceInput.Button2
+ya.ru##.RelatedBottom-Items
+ya.ru##.Typo_type_bold.Typo_text_l.Typo.Related-Header
+ya.ru##.PreventionFeature.SearchBlock_hasHover.SearchBlock
+rutube.ru##.cookie-consent
+rutube.ru##.wdp-carousel-promo-module__carousel
+rutube.ru##.wdp-yappy-link-module__text
+dzen.ru##.video-site--topic-channel-relatives-floor-redesign__wrapper-1C
+dzen.ru##.video-site--palette__smoke-TQ.video-site--thematics-cloud-in-xVT0DHaWmVg__dsCards-3m.video-site--thematics-cloud-in-xVT0DHaWmVg__thematicsEntryWrapper-3m
+www.kinopoisk.ru##.styles_content__okqkQ
+www.kinopoisk.ru##.styles_gradient__ADEBF
+www.kinopoisk.ru##.styles_root__JvlCn
+www.kinopoisk.ru##.styles_root__YGCOo
+www.kinopoisk.ru##.styles_iflpnu6s70ptcrpik__sadH_
+market.yandex.ru##._3miGS
+market.yandex.ru##._2et7a._1mTWc
+market.yandex.ru###banner-streamer
+kinopoisk.ru##.styles_contentWrapper__Mjl_p
+kinopoisk.ru##.styles_coverWrapper__BMQL6
+||avatars.mds.yandex.net/get-ott/212840/10ea86d9-200f-477a-b9f3-d9764212df13/960x540
+www.kinopoisk.ru##.styles_subscriptionInfo__bKqUg
+||www.kinopoisk.ru/uf29N8357/d595b9VF/XlwwzDUixovmcR9TKfrA9xotgoI7a3oIjvE9frCJ-TYh1ngRk7ml4O94LxXP8bmyLhlBREu-a-OJxiBNOR7WNP9MsL1g53cKt9Brsvm65GerSDZTzk-6DM5w7O4ACV*$image
+www.kinopoisk.ru##.styles_root__jD3sA
+www.kinopoisk.ru##.styles_socialMenu__gLaiH.social-icons.styles_root__kcCHj
+www.kinopoisk.ru##.styles_rootDark__ZR7rh.styles_mobileAppsMenu__E1mGj.styles_root__a_qyh
+www.kinopoisk.ru##.footer__bottom-company.styles_companySection__2U1gC
+www.kinopoisk.ru##.style_buttonLight____6ma.style_buttonPlus__TjQez.style_buttonSize32__dmucO.ih5a8qxwc5n34qekqa862ia9kz8r_root__tbyW3.styles_ir3v2i4fki8mgvjnvds4Button__2hrMS.style_button__PNtXT
+hd.kinopoisk.ru##.style_buttonDark__beFpy.style_buttonPlus__TjQez.style_buttonSize32__dmucO.HeaderSubscriptionPurchaseButton_button__ims6u.Header_button-plus-link__hWFWW.style_button__PNtXT
+hd.kinopoisk.ru##.Footer_content__l7Y5A
+www.kinopoisk.ru##.header-v4__user-bar._RT4qvKPDDRA4P9Pbu4U > div
+www.kinopoisk.ru##.ya-share2__list_direction_vertical.ya-share2__list
+www.kinopoisk.ru##.film-object-card_color-scheme_dark.film-object-card_theme_desktop.film-object-card
+www.kinopoisk.ru##p.stk-reset:nth-of-type(2)
+www.kinopoisk.ru##.trailer-promo__content
+||kinopoisk-ru.clstorage.net/uf29N8357/d595b9VF/XlwwzDUixwqXUR9TSF4Ux7tIJ-Mev8rpmvEsLwToudO1Z3mxkkmkJF7tS1BaBAyCrgjFoF-Pv9b8BmAcGX8F4Q9IQbzxsxJexxVaYkx_4RLPTOPzS0-uSO8xXA2z6tuQ0kWrw-CLZ-Ha-TrVj4AZE86tAQWOK7uQKvJwPVuo5keMHbMZ8laWaXYw35P5q4TFyz6H419P-8su0ewcUvto8kCn-FGCqPQyacse1LxxWzHcLzFXW8qpgnhVEr-rKDTETc0RyxLklfhn4RxhKnuXFZtshXNdPtupTvPc_mB4ehCAl-tB43i2cQj4XLatMjhw7D8Rljjo-hEbxLMcm6mGtp5ccLgRxOY5lbJNcjl5ZqeoL5SRTX7aCR5w_o0QKauR4YU7wmH6tSDYmM0lz3H4gh8PoRUK2guCSIXiThgK9qVtLZJoAXSFCJRyDwI7qqQnC1_XYJ68KSh_Qs_fcFj5UfKV2MIxmKYTqcpddB0x6bFsHzJ32gvpYIuUwq1r-DTFnS6j6VFnNCumMr7jOSunl2neBXPcb5v67wLMDAMKKzJAtjng8ihlIJoK_0dvIerAjR8BV2vae5JKJgB9KjsVJmxdwTnzhKYKh9NtwgsIBoe53CfSDA-py22xLx7BKdsQMPUY0BLZtBKZOB9H7bNpg859YTdaqHoRe3fRPzjaR3RfzrC5IVcki7ei3OEpqfQFeX_lE44dWnsekG4uMoubIpFnmHBSaJeR65q-5m1ySTP_XTC1eGn6k5n2IvyrytUGfp9waVFGFZr1sV0gOChkpUn-9EMvXrqKXWL9DyGZmdNxNUvz0omEkCv53PYecXkx7wzC1YjpuFG6VVEvmwhFhu2fQPtjxzQJNYLdUEmLp0aqLiQAjr-qaz9TfC6CSAswk1f7kkBJ1pA42A1UDAPJg0xvAkS6u_jwyTTTzOrZtTd_r5FbEIU3-nURzzNLO6UG2JxGY-wPa6$image
+www.kinopoisk.ru##.iecpkzcxyy08ks__promo.trailer-promo
+www.kinopoisk.ru###footer-share-buttons > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list
+www.kinopoisk.ru##._KrbcqXa6LFSgOP6whfu
+www.kinopoisk.ru##.tzVabWAbKdVvCfTAW1EG
+www.kinopoisk.ru##.NrjFBFP0i8nN3PziarKQ.social-icons.JdxE9JUIuDyAU6jhmfX3
+www.kinopoisk.ru##.NKUrqVtZTGy303AUpSQE.oDdzmoS9uTCL5YmqjHsQ.TmJ7s9VrB8nAJXSMZmvj
+www.kinopoisk.ru##.footeric8jbi6uyh1clpt1bup__bottom-company.uBhn0Nm_e5fOpU9EzH6g
+www.kinopoisk.ru##.js-discovery-trailer.media-post-trailer__trailer
+www.kinopoisk.ru##.media-post-trailer__trailer-wrapper
+www.kinopoisk.ru##.media-post-trailer_theme_desktop.media-post-trailer
+www.kinopoisk.ru##.valign-middle.stk-theme_44869__mb_cus_36.stk-theme_44869_grey_background_color_style.stk-grid > .valign-middle.stk-grid-col_last.stk-grid-col
+hd.kinopoisk.ru##.styles_title__xwaM_.Text_root_theme_dark__UtlHf.Text_root_spacing_headline__rv6gh.Text_root_weight_bold__suIrP.Text_root_size_body__we35Q.Text_root__A9RJ2
+||avatars.mds.yandex.net/get-ott/1648503/2a000001933e739da69ac413086b434d18ac/*$image
+hd.kinopoisk.ru##.styles_wrapper__oujJT
+hd.kinopoisk.ru##.styles_row__bLr6a
+||avatars.mds.yandex.net/get-ott/212840/10ea86d9-200f-477a-b9f3-d9764212df13/960x540
+||avatars.mds.yandex.net/get-ott/12808873/2a00000192ddc5f753534ce8b1651ea29eec/375x234
+||avatars.mds.yandex.net/get-ott/224348/2a000001927bcc184d5214410b1cb7ea246c/375x234
+||avatars.mds.yandex.net/get-ott/200035/2a000001934fc7735f2b9c3faa4daed58a2b/375x234
+||avatars.mds.yandex.net/get-ott/1648503/2a000001933e739da69ac413086b434d18ac/375x234
+||avatars.mds.yandex.net/get-ott/13051577/2a00000192572ae0be91d5e934b3251646f8/375x234
+hd.kinopoisk.ru##.upsale-block_upsale-disclaimer__OPa_H
+hd.kinopoisk.ru##.footer_content__LAuRL
+www.afisha.ru##.ezIqR
+www.afisha.ru##.DvGQd
+||www.afisha.ru/img/common/afisha-app-qr-2023.png$image
+www.afisha.ru##.Ivp4C
+www.afisha.ru##.tNJnf
+ya.ru##.dist-stripe_dark.dist-stripe
+ya.ru##.o62hG2NPZE8Q
+ya.ru###f1a49fci-PE2Dpc2
+||yastatic.net/naydex/yandex-search/IXjzI8109/8ebadeQPb/Mv19WHIViJ9unnIZ6rDSN87Fm3mReuvGTCLdyFdnnFI1KWkIqrmov4yesC8JFjnLpqfLRxb26UOe-pUv3TVnY4adNJXTlMQeXkYrMfq02mfT2ctZwX4DW_CeQWXXsyyfpYEpRYb9rXcw$image
+ya.ru##.oaebOgkkIWss
+ya.ru##.RequestMeta-Level_type_antispam.RequestMeta-Level
+ya.ru##div.body__content:nth-of-type(3)
+ya.ru##.Warning-Item
+ya.ru##.Organic-Warning.Warning_display_block.Warning_size_m.Warning_tooltip.Warning_type_roskomnadzor.Warning.ofuPWpkAAUvhmMNmn
+market.yandex.ru##._1ZIYx
+market.yandex.ru##._1yAbU.EQlfk
+market.yandex.ru##.naSP2
+market.yandex.ru##._2kcQM._2ENxZ._2AXg-
+market.yandex.ru###\/content\/page\/fancyPage\/cms\/CmsPageLayout-0\/136694889\/content\/slot-jena91dl1lq > .cia-cs.cia-vs._2A4i0 > ._1Pv-a._36vAl
+market.yandex.ru##._1bCJz._1MOwX._3tYVn
+market.yandex.ru###l5hhw63hri
+market.yandex.ru##.lqAHp
+market.yandex.ru##._2qFtF
+market.yandex.ru##._1oM_u
+auto.ru##.BadgePlus_info_text-NGikB.BadgePlus_displayFlow_reverse-yc0eG.BadgePlus_size_l-YiRol.BadgePlus_theme_alternate-Xwmnh.BadgePlus-WM6x8
+||yastatic.net/s3/vertis-frontend/internal-frontend/marketing/*%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B8*%D1%85.png$image
+||avatars.mds.yandex.net/get-vertis-marketing/*8/desktop_banner*_1732202904*/orig$image
+auto.ru##.IndexSelector__banner
+auto.ru##.FooterSeo
+auto.ru##.Footer__base-links
+auto.ru##.Footer__links
+auto.ru##.NewCarBanner__content-Tf95R
+auto.ru###LayoutIndex > div.pDSdVaNQP5a4H > div.Index > div.IndexFeed-sWotH.Index__block:nth-child(2) > div > a.Link.Link_hovered.NewCarBanner-fJIhb:nth-child(2) > div > div.NewCarBanner__content-Tf95R:first-child
+https://yastatic.net/s3/vertis-front-deploy/_autoru-frontend/car_d3e08a9c5c6a191d048a92ee279d582f.png$domain=auto.ru
+auto.ru##.MatchApplicationBanner-IlQLB.MatchApplicationBanner_radius_xxl-pz_bp
+auto.ru##div.SectionBlock_gap_m.SectionBlock_size_m.SectionBlock:nth-of-type(2)
+auto.ru##.PostBlock__card.MagLink_color_none.MagLink
+auto.ru##.PollBlock__footer
+auto.ru##.ArticleHeader__share-bSeU7.Share
+auto.ru###app > div.SusaninReact > div.page.page_type_mag-article:first-child > div.PageArticle:first-child > main:last-child > div:nth-child(2) > div.SectionBlock.SectionBlock_size_m.SectionBlock_gap_m:nth-child(34)
+auto.ru##div:nth-of-type(6)
+auto.ru##.Breadcrumbs__list
+auto.ru##.kcjDh3X19U
+||yastatic.net/s3/vertis-front-deploy/mf-spec/_/edca440ed8b88881e1a4.webp
+||yastatic.net/s3/vertis-front-deploy/mf-spec/_/68ca8f6709f2033b538c.webp
+||yastatic.net/s3/vertis-front-deploy/mf-spec/_/bc91e6331fd3c03950eb.webp
+||yastatic.net/s3/vertis-front-deploy/mf-spec/_/a8be81a5b327a8d49181.png
+||avatars.mds.yandex.net/get-vertis-journal/3911415/BZh.jpg_1712321593026/orig
+auto.ru##.NYfQ_LnAxK
+auto.ru##.XNyCyvtICP.xVLM8aEBab
+auto.ru##.pW8wXFblzB.xVLM8aEBab
+auto.ru##.ecF98du_pA.xVLM8aEBab
+auto.ru##.WohCzMjd9t
+auto.ru##.ProAutoLandingDesktop__plusBanner.VinReportPlusPromoDesktop-bIleh.Link
+travel.yandex.ru##.ZgPEx.wjP_j.olZz1.TSdqC._0-JBz.mPDLV
+travel.yandex.ru##.X-rt5.k1OFp.EhCXF > .gJ0bk._274Q5.EhCXF
+travel.yandex.ru##.QWB4c
+travel.yandex.ru##.YjBBf.H8PKV
+travel.yandex.ru##._4ZiVK._274Q5.EhCXF
+travel.yandex.ru##.L5rMK.GWX5W.zQrQ4.XswUG.mhjH-
+tv.yandex.ru##.recommended-ott
+tv.yandex.ru##.footer__group_right.footer__group
+tv.yandex.ru##a.footer__adaptive-link.link:nth-of-type(3)
+tv.yandex.ru##.button_wanna-see-count.button_icon_bright.button_size_m.button_theme_ghost.button
+realty.yandex.ru##.IndexPageContent__title--2oJyg
+realty.yandex.ru##.IndexPageSnippetsGridWrapper__bigBanner--3Ewgs.IndexPageSnippetsGridWrapper__banner--2VyIE > .PodKluchBaseBanner__greyBanner--1cyPu.BannerExtrude__container--UcONs > .PodKluchBaseBanner__content--3R6Lz > .Link_theme_islands.Link_size_m.Link_js_inited.Link > .Link__click-area
+realty.yandex.ru##.IndexPageSnippetsBanner__container--1bGZW.IndexPageSnippetsWithPromo__banner--3XF1b
+realty.yandex.ru##.IndexPageSnippetsGridWrapper__bigBanner--3Ewgs.IndexPageSnippetsGridWrapper__banner--2VyIE > .PodKluchBaseBanner__greyBanner--1cyPu.BannerExtrude__container--UcONs > .PodKluchBaseBanner__content--3R6Lz
+realty.yandex.ru##.IndexPageSnippetsGridWrapper__bigBanner--3Ewgs.IndexPageSnippetsGridWrapper__banner--2VyIE > .PodKluchBaseBanner__greyBanner--1cyPu.BannerExtrude__container--UcONs
+realty.yandex.ru##.IndexPageSnippetsGridWrapper__bigBanner--3Ewgs.IndexPageSnippetsGridWrapper__banner--2VyIE
+realty.yandex.ru##.IndexPageContent__appDownloadBanner--2n_rt.AppDownloadBanner__container--2DHU8
+realty.yandex.ru##div.Footer__footerRow--21IxP.FooterRow:nth-of-type(3)
+realty.yandex.ru##.SocialNetworks_size_m.SocialNetworks_theme_light.SocialNetworks
+realty.yandex.ru##div.Footer__footerRow--21IxP.FooterRow:nth-of-type(4)
+realty.yandex.ru##.MainScreen__title--JVvVp
+realty.yandex.ru##.SiteCardAbout__right--3ahfz > div > div > .SiteCardInfo__a101Banner--1I4qT.A101ArendaSpecBanner__container--3OCNT
+realty.yandex.ru##.SiteCard__hiddenHideableBlockContent--2S45u.CardHideableBlock__content--3bi5P > div > div > .SiteCardInfo__a101Banner--1I4qT.A101ArendaSpecBanner__container--3OCNT
+afisha.yandex.ru##.cjcGpp.ePOuTn.PopupForm-sc-1xy1bmq-5.Popup-sc-1xy1bmq-2
+afisha.yandex.ru##.hNIylb.Root-sc-1f7ds9o-0
+afisha.yandex.ru##div.grid__container:nth-of-type(7)
+afisha.yandex.ru##div.grid__container:nth-of-type(13)
+afisha.yandex.ru##.kvxPPQ.Root-sc-1brj0v6-0 > div
+||yastatic.net/s3/afisha-frontend/static/_/bdf25f89930c83a8752fb95fe93f817f.png$image
+afisha.yandex.ru##.ggyvcs.Root-tlydmk-0
+afisha.yandex.ru##.bFdGgo.Root-sc-1p19t6z-0 > div
+afisha.yandex.ru##.kvxPPQ.Root-sc-1brj0v6-0
+afisha.yandex.ru##.citAhy.Stick-sc-1ejapqn-3
+afisha.yandex.ru##.event-promo-action-banner_js_inited.i-bem.event-promo-action-banner
+afisha.yandex.ru##.promo-action-popup-sticky_show_yes.promo-action-popup-sticky_js_inited.popup2_visible_yes.popup2_orientations_bottom-left.popup2_js_inited.i-bem.event-promo-action-banner__sticky.grid_adaptive_yes.grid_type_new.grid.promo-action-popup-sticky_theme_promobanner.promo-action-popup-sticky.popup2_view_classic.popup2_target_position.popup2_theme_clear.popup2
+afisha.yandex.ru##._1ijARv.uTzFiaUloNf2a5m7KfvkxGTyAHOg._2mJgnF > .uTzFiaUloNf2a5m7Kfg.b3J_Bi
+afisha.yandex.ru##._30IB8C.uTzFiaUloNf2a5m7KfvkxGTyAHOg._2mJgnF > .uTzFiaUloNf2a5m7Kfg.b3J_Bi
+afisha.yandex.ru##._1NvmqX.adfox.Container-sc-39ls2u-0
+afisha.yandex.ru##._95G2Uc
+afisha.yandex.ru###uTzFiaUloNf2a5m7Kfg--9yfef8_6
+afisha.yandex.ru##.uTzFiaUloNf2a5m7Kfg_js_inited.i-bem.uTzFiaUloNf2a5m7Kfg.uXCJpaEhqNf2a5m7Kfg.i-react > .uTzFiaUloNf2a5m7KfvkxGTyAHOg._2mJgnF > .uTzFiaUloNf2a5m7Kfg.b3J_Bi
+afisha.yandex.ru###uTzFiaUloNf2a5m7Kfg--hpjxp8_33
+afisha.yandex.ru##.uTzFiaUloNf2a5m7Kfg-rubric-uTDhqaEU > .uTzFiaUloNf2a5m7Kfg_js_inited.i-bem.uTzFiaUloNf2a5m7Kfg.i-react > .uTzFiaUloNf2a5m7KfvkxGTyAHOg._2mJgnF > ._1Mcx52._16Gf2a
+afisha.yandex.ru###uTzFiaUloNf2a5m7Kfg--rny59u_34
+afisha.yandex.ru###uTzFiaUloNf2a5m7Kfg--mpvzqv_40
+yandex.ru##.card-tip-view
+edadeal.ru##.b-dsk-footer__disclaimer
+practicum.yandex.ru##.title__name
+practicum.yandex.ru##div.title__text:nth-of-type(1)
+practicum.yandex.ru##.title__wrapper
+360.yandex.ru##.Link.Theme.Theme_color_b2c-tariffs-dark.Theme_root_b2c-tariffs-dark.TopLine_container_XItoJ
+360.yandex.ru##.BottomText_BQITOD4JsXrlECLU_uGn
+360.yandex.ru##.SocialMediaBlock_d3CNmt2h7U53oNme1NGh
+lavka.yandex.ru##.mr6n8oe.drtejuu
+lavka.yandex.ru##.c15pvu38
+lavka.yandex.ru##.ceqa5cl
+lavka.yandex.ru##.bf44jar
+lavka.yandex.ru##.vb1zgqb.m14qho5q
+lavka.yandex.ru##.c1418drx.c14xrn6c
+lavka.yandex.ru##.cc9u8rz.shown
+lavka.yandex.ru##.n74fykv.luqwr5b.c14xrn6c.lrwua06.cvhpzkl.l1xzf6qv.cow0qbn.i1o5b27r
+lavka.yandex.ru##.wk0xveo.w1ojowd1.m12jjvg0.p1cu3z7q
+lavka.yandex.ru##.tea9qce
+yandex.ru##.app-promo-button__text-wrap
+yandex.ru##.app-promo-button__logo-wrap
+yandex.ru##div.links-section:nth-of-type(4)
+yandex.ru##.copyright-tech
+yandex.ru##.footer__end
+yandex.ru##.kKfWLP.sc-aee946a6-3
+uslugi.yandex.ru##.Home-Block_gray.Home-Block_sevenXLMarginBottom.Home-Block_sevenXLMarginTop.Home-Block_round.Home-Block.DistributionCard-Container
+uslugi.yandex.ru##.Footer-Badges
+uslugi.yandex.ru##.MobAppStoreLinks
+yandex.cloud##.footer__mobile-store.col-12.justify-content-center.d-flex.col
+yandex.cloud##.footer__tablet_hidden.footer__tablet > .footer__social
+yandex.cloud##div.col-md-12.col-sm-6.col-12.col:nth-of-type(2)
+yandex.cloud##.footer__wrapper.row > .col-md-4.col-12.col
+market.yandex.ru##.cia-vs._2veCe
+market.yandex.ru##._1bCJz._1MOwX.Trrr0._3Z1xW
+ya.ru##.yc5bfe07.vd55bcaaf.ob4fd911.aaab85579.x83c03322
+ok.ru##.auth-login-banner__e19f0
+ok.ru##.video-banner
+||st.okcdn.ru/static/video-banner/1-0-19/rsz_940x180.png
+www.championat.com##.footer
+news.rambler.ru##.JmFBKqGU.mqvZ5X8Q.QTIjN9Se
+finance.rambler.ru##.rc__2bcw1j.rc__338153.rc-footer
+www.zr.ru##.YtZmh.styled__BrandingContent-sc-7428e609-2
+www.zr.ru##.eLofua.styled__SuspendableElement-sc-85c4219a-0 > .kKTdzI.styled__MainBlock-sc-8411af1d-0
+www.zr.ru##.JdPjd.styled__Mincifr-sc-2a549ff0-17
+www.zr.ru##.eJkDev.styled__CookieDisclaimerContainer-sc-262348ab-9
+www.zr.ru##.kFwVmG.styled__FooterSocial-sc-21fe6693-11.fEYvPQ.styled__SocialLinks-sc-ec211017-0
+www.zr.ru##div.inUYQs.styled__FooterBottom-sc-21fe6693-6:nth-of-type(3)
+www.zr.ru##div.inUYQs.styled__FooterBottom-sc-21fe6693-6:nth-of-type(2)
+www.zr.ru##a.chNMhh.styled__FooterMenuLink-sc-21fe6693-2.cnvsds.styled__UiLink-sc-ee21f72a-0:nth-of-type(8)
+www.zr.ru##td > .dondo
+www.zr.ru##.fjyYAC.styled__Table-sc-dbecb1ca-48
+www.zr.ru##.fwPqJY.styled__BlockReadmore-sc-dbecb1ca-34
+www.zr.ru##.fwFCDH.styled__FeedWrapper-sc-9feb68cc-0 > div > .bitfeg.styled__StoryWrapper-sc-dbecb1ca-0 > .cAaOeH.styled__StoryItem-sc-dbecb1ca-49 > .hwjklk.styled__StoryInfo-sc-dbecb1ca-14 > div.uaPmN.styled__StoryInfoWrap-sc-dbecb1ca-15 > .ljmvNj.styled__InfoShare-sc-dbecb1ca-21 > .fWjcds.styled__ShareButtons-sc-d32dadb8-0 > .ya-share2_inited.ya-share2 > .ya-share2__container_shape_normal.ya-share2__container_color-scheme_normal.ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list
+www.zr.ru##.fwFCDH.styled__FeedWrapper-sc-9feb68cc-0 > div > .bitfeg.styled__StoryWrapper-sc-dbecb1ca-0 > .cAaOeH.styled__StoryItem-sc-dbecb1ca-49 > .hwjklk.styled__StoryInfo-sc-dbecb1ca-14 > div.uaPmN.styled__StoryInfoWrap-sc-dbecb1ca-15 > .ljmvNj.styled__InfoShare-sc-dbecb1ca-21 > span
+www.zr.ru##.fwFCDH.styled__FeedWrapper-sc-9feb68cc-0 > div > .bitfeg.styled__StoryWrapper-sc-dbecb1ca-0 > .cAaOeH.styled__StoryItem-sc-dbecb1ca-49 > .kYUPsI.styled__StoryNoteSubscribe-sc-dbecb1ca-11
+www.zr.ru##.liMByO.styled__SubscribeSocial-sc-86418d61-2
+###app > div.SusaninReact > div.page.page_type_mag-article:first-child > div.PageArticle:first-child > main:last-child > div:nth-child(2) > div.SectionBlock.SectionBlock_size_m.SectionBlock_gap_m:nth-child(34)
+auto.ru###app > div.SusaninReact > div.page.page_type_mag-article:first-child > div.PageArticle:first-child > main:last-child > div:nth-child(2) > div.SectionBlock.SectionBlock_size_m.SectionBlock_gap_m:nth-child(34)
+zr.ru##.styled__StoryNoteSubscribe-sc-dbecb1ca-11, .kYUPsI
+zr.ru##.styled__StoryList-sc-dbecb1ca-44, .iOQsG
+zr.ru##.styled__BlockReadmore-sc-dbecb1ca-34, .yCQIa
+zr.ru##.dondo
+autoreview.ru##.newsletter.sidebar-white
+autoreview.ru##.anons > .container
+autoreview.ru##.anons-title > span
+autoreview.ru##.anons-title
+autoreview.ru##.foot-content-info
+autoreview.ru##.foot-copy
+autoreview.ru##.widget, .widget--defalut
+quto.ru##.header.jsx-978382958.jsx-1405395520
+quto.ru##.footer.jsx-978382958.jsx-1405395520
+quto.ru##.readMore.jsx-860948675
+quto.ru###article_0 > article > div > .tgAJYUOl > .gbWBYuE8.jsx-2881489884 > .VmIH81oF.jsx-3210083823 > div > div > div > .Y_onaEaG.jsx-1026838231 > .OGh05RQh.EHvV6NOG.OrdQEv8T.jsx-1026838231 > .EsENF_ns.jsx-1026838231
+quto.ru###article_0 > article > div > .tgAJYUOl > .gbWBYuE8.jsx-2881489884 > .VmIH81oF.jsx-3210083823 > div > div > div > .Y_onaEaG.jsx-1026838231 > .OGh05RQh.EHvV6NOG.OrdQEv8T.jsx-1026838231
+quto.ru##.M1PsJKXZ > .FlLXOD1N
+quto.ru##.oad1rvy1.jsx-590725116
+quto.ru##.VmIH81oF.jsx-3210083823 > div > div > .FlLXOD1N
+quto.ru##.jsx-1026838231, .OrdQEv8T, .EHvV6NOG, .OGh05RQh
+pr-cy.ru##.e1l6v7gx5.prcy-zn1oku
+||kolesa-uploads.ru/p/636df84c-7b04-4556-a278-1b9f068bd5f1/75e8148c836bb96433f6be4df49ee8e2.jpg$image
+www.kolesa.ru##.today-widget__info
+www.kolesa.ru##.today-widget
+www.kolesa.ru##.link-to-catalog
+www.kolesa.ru##.shown.marked-post
+companies.rbc.ru##.container
+companies.rbc.ru##.BlackFridayPopUp__black-friday-pop-up--show__vS24Vge.BlackFridayPopUp__black-friday-pop-up--desktop__IcaF0xK.BlackFridayPopUp__black-friday-pop-up__quSBEDR
+companies.rbc.ru##.gap-\[10px\].h-\[48px\].bg-black-900.w-full.flex.mobile--hidden
+www.similarweb.com##.ot-sdk-container
+www.similarweb.com##.exit-popup__modal__content__text-wrapper
+www.similarweb.com##.exit-popup__modal__content
+www.similarweb.com##.exit-popup__modal
+www.similarweb.com##.app-modal__overlay.ReactModal__Overlay--after-open.ReactModal__Overlay
+www.similarweb.com##.app-banner
+dubkov.org##.clearfy-cookie--bottom.clearfy-cookie
+www.google.com##.ssOUyb.KxwPGc
+www.google.com##.uU7dJb
+www.google.com##.EIaa9b
+www.google.com##.adDDi.kfsfbe
+mail.ru##.caa-jfde-14pmf7y.setting-promo__content
+||home.imgsmail.ru/assets/user-settings/new-user-setting-promo.mp4$media
+finance.mail.ru##.rb--recommendation-link.js-147964806-recommendation-link-container.rb-147964806-recommendation-link
+finance.mail.ru##.fbb742eebb
+news.mail.ru##.padding_top_10.padding_bottom_10.js-scroll-to-site__hidden.block_separated_bottom.block_separated_top.block
+bobsoccer.ru##div.flex-grow2:nth-of-type(2)
+bobsoccer.ru##.flex-grow3
+bobsoccer.ru##div.flex-grow2:nth-of-type(1)
+bobsoccer.ru##.middle-side > section
+bobsoccer.ru##.comment-now
+www.sports.ru##.social-links
+www.sports.ru##.post-content__write-post.write-post
+www.sports.ru##.footer__grid
+www.sports.ru##.footer-recommendation
+www.sports.ru##.footer__copyright
+www.sports.ru##.footer-support
+www.sports.ru##.footer__site-version-btn-desktop
+www.drom.ru##.euz53sx0.css-aomcel
+www.drom.ru##.eqqry450.css-8ip82w
+www.drom.ru##.egapqn12.css-15dz9bv
+www.drom.ru##.e162wx9x0.css-7x0dcv
+news.drom.ru##.share-socials
+news.drom.ru###nps-widget > .share-socials-header
+news.drom.ru##.b-media-cont_clear.b-media-cont
+news.drom.ru##.e11xqm9e0.css-1c95su9
+news.drom.ru##.euz53sx0.css-aomcel
+www.zr.ru##.hGRsKU.styled__StoryNote-sc-dbecb1ca-23.dupoKJ.styled__SuspendableElement-sc-85c4219a-0
+www.autopilot.ru##.hide_mobile.adv_nest--980x250_top.adv_nest
+www.avito.ru##.top-banner-root-nYP0D
+www.avito.ru##.styles-module-animation-origin-bottom-CbVEo
+www.avito.ru##.index-module-content-zB4av > .styles-module-root_fullWidth-_vJox.styles-module-root_direction_vertical-_P4Ac.styles-module-margin-bottom_none-QChmM.styles-module-margin-top_none-_c4I_.styles-module-root-RAJ8g > .styles-module-margin-bottom_none-QChmM.styles-module-margin-top_10-_s40t.styles-module-root-Zabz6
+www.avito.ru##.styles-module-noAccent-l9CMS.stylesMarningNormal-module-paragraph-s-_lGjQ.stylesMarningNormal-module-root-_BXZU.styles-module-size_s-__aUd.styles-module-size_s-xb_uK.styles-module-root-o3j6a
+www.avito.ru##.index-module-links-KCJLb
+www.avito.ru##.index-module-root-W7qBP > .styles-module-root_fullWidth-_vJox.styles-module-root_direction_vertical-_P4Ac.styles-module-margin-bottom_none-QChmM.styles-module-margin-top_none-_c4I_.styles-module-root-RAJ8g
+www.gismeteo.ru##.footer
+www.wildberries.ru##.cookies
+||static-basket-01.wbbasket.ru/vol1/crm-bnrs/adsf/1732883369402228472.webp$image
+www.wildberries.ru##.j-big-banners-block.j-main-page-block.banner__content
+www.wildberries.ru##.footer__copyrights > span
+www.wildberries.ru##.footer-social__list
+www.wildberries.ru##.footer__social-wrap
+aliexpress.ru##.snow-ali-kit_Informer__informer__8lq3ka.snow-ali-kit_Informer-Neutral__informer__gmt2oj
+||ae-pic-a1.aliexpress-media.com/kf/Sec505a2f641948df94fa7b71b32702e0m/1790x572.png$image
+aliexpress.ru##div.snow-container_SnowContainer__container__rkv8lv > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94 > .RedModuleBanner_Carousel__horizontalPages__c8t94.RedModuleBanner_Carousel__pages__c8t94 > li.RedModuleBanner_Carousel__page__c8t94 > .RedModuleBanner_Banner__outer-wrapper__17cnq > .inner-wrapper_home.RedModuleBanner_Banner__inner-wrapper__17cnq > .RedModuleBanner_Banner__left-block__17cnq
+aliexpress.ru##div.snow-container_SnowContainer__container__rkv8lv > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94 > .RedModuleBanner_Carousel__horizontalPages__c8t94.RedModuleBanner_Carousel__pages__c8t94 > li.RedModuleBanner_Carousel__page__c8t94 > .RedModuleBanner_Banner__outer-wrapper__17cnq > .inner-wrapper_home.RedModuleBanner_Banner__inner-wrapper__17cnq
+aliexpress.ru##div.snow-container_SnowContainer__container__rkv8lv > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94 > .RedModuleBanner_Carousel__horizontalPages__c8t94.RedModuleBanner_Carousel__pages__c8t94 > li.RedModuleBanner_Carousel__page__c8t94 > .RedModuleBanner_Banner__outer-wrapper__17cnq
+aliexpress.ru##div.snow-container_SnowContainer__container__rkv8lv > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94
+aliexpress.ru##div.snow-container_SnowContainer__container__rkv8lv > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94
+aliexpress.ru##div.snow-container_SnowContainer__container__rkv8lv > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b
+aliexpress.ru##.RecommendationFeedV2_Grid__dirtyStyleHack__1jgoc.RecommendationFeedV2_Grid__grid__1jgoc.red-snippet_RedSnippet__grid__1ui42o > div > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94 > .RedModuleBanner_Carousel__horizontalPages__c8t94.RedModuleBanner_Carousel__pages__c8t94 > li.RedModuleBanner_Carousel__page__c8t94 > .RedModuleBanner_Banner__outer-wrapper__17cnq > .inner-wrapper_home.RedModuleBanner_Banner__inner-wrapper__17cnq > .RedModuleBanner_Banner__left-block__17cnq
+aliexpress.ru##.RecommendationFeedV2_Grid__dirtyStyleHack__1jgoc.RecommendationFeedV2_Grid__grid__1jgoc.red-snippet_RedSnippet__grid__1ui42o > div > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94 > .RedModuleBanner_Carousel__horizontalPages__c8t94.RedModuleBanner_Carousel__pages__c8t94 > li.RedModuleBanner_Carousel__page__c8t94 > .RedModuleBanner_Banner__outer-wrapper__17cnq > .inner-wrapper_home.RedModuleBanner_Banner__inner-wrapper__17cnq
+aliexpress.ru##.RecommendationFeedV2_Grid__dirtyStyleHack__1jgoc.RecommendationFeedV2_Grid__grid__1jgoc.red-snippet_RedSnippet__grid__1ui42o > div > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94 > .RedModuleBanner_Carousel__horizontalPages__c8t94.RedModuleBanner_Carousel__pages__c8t94 > li.RedModuleBanner_Carousel__page__c8t94 > .RedModuleBanner_Banner__outer-wrapper__17cnq
+aliexpress.ru##.RecommendationFeedV2_Grid__dirtyStyleHack__1jgoc.RecommendationFeedV2_Grid__grid__1jgoc.red-snippet_RedSnippet__grid__1ui42o > div > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94 > .RedModuleBanner_Carousel__pagesContainer__c8t94
+aliexpress.ru##.RecommendationFeedV2_Grid__dirtyStyleHack__1jgoc.RecommendationFeedV2_Grid__grid__1jgoc.red-snippet_RedSnippet__grid__1ui42o > div > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b > .RedModuleBanner_RedModuleBanner__slider__97w8b.RedModuleBanner_Carousel__carousel__c8t94
+aliexpress.ru##.RecommendationFeedV2_Grid__dirtyStyleHack__1jgoc.RecommendationFeedV2_Grid__grid__1jgoc.red-snippet_RedSnippet__grid__1ui42o > div > .RedModuleBanner_RedModuleBanner__container__97w8b > .RedModuleBanner_RedModuleBanner__frame__97w8b
+aliexpress.ru##.RedEntryPoints_RedEntryPoints__wrapper__5gjjc
+aliexpress.ru##.RedFooter_FooterBottom__wrapper__is8x4
+aliexpress.ru##.RedFooter_FooterTop__wrapper__1vhcw > .snow-container_SnowContainer__container__rkv8lv
+aliexpress.ru##.RedFooter_FooterTop__wrapper__1vhcw
+||personalization-web-stable.mindbox.ru/user-media/35294/b868b8952340546956df305ce7759448710e641f73db80e181834ff177b39b26.png$image
+www.rbc.ru##.popmechanic-content
+www.rbc.ru##.popmechanic-main
+www.rbc.ru##.popmechanic-js-clickable-overlay
+www.rbc.ru##.popmechanic-js-animation-wrapper
+www.rbc.ru###popmechanic-paranja-103140
+www.rbc.ru##.js-rm-cm-item.js-index-doscroll.js-index-central-column-main > .item
+www.rbc.ru##.footer__copyright
+www.rbc.ru##.js-social-likes.article__social-bottom
+sportrbc.ru##.footer__copyright
+ria.ru##.footer__top
+ria.ru##.footer__copyright
+ria.ru##.ab_visible.article__article-link
+ria.ru##.m-active.endless__item > .page__width.endless__item-content > .layout-article > .m-text-white.m-ria.m-article.article > .layout-article__over > .layout-article__main > .layout-article__main-over > div.layout-article__600-align > .mia-analytics.js-mediator-article.article__body > div.article__block > .m-image.color-font-hover-only.article__article
+lenta.ru##.footer__versions
+lenta.ru##.js-box-inline-topic.box-inline-topic
+megamarket.ru##.mass-communication-cloud-bottom_show.mass-communication-cloud-bottom
+megamarket.ru###v-step-21ad2bd6
+megamarket.ru##.v-step.onboarding__step
+megamarket.ru##.mass-communication-new__title
+megamarket.ru##.mass-communication-new
+megamarket.ru##.infinite-gallery__control.infinite-gallery__control_right.infinite-gallery__control_active
+megamarket.ru##.infinite-gallery-wrap
+megamarket.ru##.banner-slider
+||main-cdn.sbermegamarket.ru/upload/mnt/4ee4c7f6-05af-4b1b-bdc9-32c092c164d9.jpg
+||main-cdn.sbermegamarket.ru/upload/mnt/ecae2b0a-a549-4917-a67b-86adc6fbcc0c.jpg
+||main-cdn.sbermegamarket.ru/upload/mnt/80910305-85b8-4907-962a-aa13d6c45207.jpg
+||main-cdn.sbermegamarket.ru/upload/mnt/9c4477ca-2e3a-42ae-976d-cf1ed356abf4.jpg
+||main-cdn.sbermegamarket.ru/upload/mnt/b24c0758-a2e2-4e70-b5df-6ed0282f2fed.jpg
+megamarket.ru##.bottom.notification-system__item.cookie
+megamarket.ru##.faq-button
+megamarket.ru##article.content-card_l.curtain__list-item.content-card:nth-of-type(7)
+megamarket.ru##article.content-card_s.curtain__list-item.content-card:nth-of-type(12)
+megamarket.ru##article.content-card_s.curtain__list-item.content-card:nth-of-type(13)
+quto.ru##.jsx-1026838231, .OrdQEv8T, .EHvV6NOG, .OGh05RQh
+###app > div.layout:nth-child(3) > div.layout-grid > main.app__main:nth-child(2) > div.main-page > section.curtain:nth-child(3) > div.container-redesign > div.curtain__list:nth-child(3) > div.curtain__list_right:last-child > article.content-card.curtain__list-item.content-card_l:nth-child(7) > article.banner-card > a:first-child > img.banner-card__image.pui-img:first-child
+megamarket.ru##.banner-card
+www.drive2.ru##.c-share.o-group--m.o-group
+zona-riska.livejournal.com##.cookies-banner
+zona-riska.livejournal.com##.main-footer__top
+www.kp.ru##.cIvLXI.sc-11vvdi3-20
+www.kp.ru##.envsr.sc-11vvdi3-21
+www.kp.ru##.axOLG.sc-zkztdb-1
+www.kp.ru##div.iRmFIn.sc-11vvdi3-1:nth-of-type(1)
+moskva.mts.ru##.ng-star-inserted.ng-trigger-dialogContainer.ng-trigger.ng-tns-c21-3.mat-dialog-container
+moskva.mts.ru##.main-slider-container.b-wrapper_ukit
+moskva.mts.ru##.only-unauth.section-box__entertainments-main.section-box > .b-wrapper_ukit
+moskva.mts.ru##.only-unauth.section-box__entertainments-main.section-box
+moskva.mts.ru##.ng-star-inserted.standalone.only-unauth.section-box__subscribes-and-services.section-box_ukit.section-box > .b-wrapper_ukit
+moskva.mts.ru##.grid__sd-col-offset-0.grid__sd-col-12.grid__col-offset-1.grid__col-10.grid__col
+moskva.mts.ru##.ng-star-inserted.shop-carousel__slider-wrapper
+moskva.mts.ru##.shop-carousel__title
+moskva.mts.ru##.tooltip-location__wrapper
+moskva.mts.ru##.footer__bottom
+moskva.mts.ru##.footer__text-wrapper
+www.cian.ru##div.a10a3f92e9--hide-for-print--hVT3P.a10a3f92e9--section--eHvYg > .a10a3f92e9--item--AGjVb
+www.cian.ru##._84ff5fbbc9--cg-col-24--POdqD._84ff5fbbc9--group--bH6Pm
+www.cian.ru##._84ff5fbbc9--cg-col-24--POdqD._84ff5fbbc9--footer-legal--Om2MT
+##.e4aBPNT_Q6Pw
+###f1a49fci-PFPM7ym > div.e4aBPNT_Q6Pw
+kinopoisk.ru##.style_button__PNtXT.styles_wwymucf1xeyp0kmx61jfButton__2hrMS.w3jgytze8kqrsi5odq5o6z5xez74_root__tbyW3.style_buttonSize32__dmucO.style_buttonPlus__TjQez.style_buttonLight____6ma
+kinopoisk.ru##.styles_root__7mPJN.styles_banner__YFX1q.styles_lightThemeItem__BSbZW
+sport-express.ru##.se-newspaper-widget__content
+sport-express.net##.se-materials-navigation
+sport-express.net##.se-footer-bottom
+sport-express.net##.se-translation-scoreboard-extra
+sport-express.net##.se-translation-scoreboard__right
+sport-express.net##.se-material-page__blog-buttons
+sport-express.net##.material_announcement_block
+sport-express.net##.se-read-also-widget
+||autofill.yandex.ru/suggest?client_id=62dcfd7b4da747a7bc558a285e8ad4ae&response_type=token&redirect_uri=https%3A%2F%2Fwww.sport-express.net%2Fapi%2Fv2%2Fauth%2Fyandex%2Fcallback%2F&location=https%3A%2F%2Fwww.sport-express.net%2Fautosport%2Fformula1%2Freviews%2Fv-gorode-kerpen-otkazalis-prisvaivat-status-pochetnogo-grazhdanina-mihaelyu-shumaheru-prichiny-i-podrobnosti-reakciya-ralfa-shumahera-2282781%2F&theme=light&version=1.66.4&widget_kind=default&ym_uid=&source_id=&uuid=5878413f-e090-490f-b912-08d5d6ea806c
+||ss.sport-express.net/userfiles/branded_buttons/137/155.png
+championat.com##.external-article
+##div.se-page-wrapper:nth-child(3) > section.se-page-content.se-center-wrapper:nth-child(8) > div.se-grid3col:last-child > div.se-grid3col__right:last-child > div:first-child > div.se-slidertitled-block.se-newspaper-widget-block > section.se-titled-block.mb_20 > div.se-titled-block__content:last-child > div.swiper-container.swiper-container-initialized.swiper-container-horizontal.swiper-container-pointer-events.swiper-container-autoheight > div.swiper-wrapper
+##div.se-page-wrapper:nth-child(3) > section.se-page-content.se-center-wrapper:nth-child(8) > div.se-grid3col:last-child > div.se-grid3col__right:last-child > div:first-child > div.se-slidertitled-block.se-newspaper-widget-block > section.se-titled-block.mb_20
+##div.se-page-wrapper:nth-child(3) > section.se-page-content.se-center-wrapper:nth-child(8) > div.se-grid2col:nth-child(3) > div.se-grid2col__left:first-child > div.se-material-page.se-material-page--main > div.se-material-page__footer:nth-child(4) > div.se-material-page__footer-recommendations:nth-child(4) > div.se-read-also-widget
+##div.se-page-wrapper:nth-child(3) > footer.se-footer:last-child > div.se-center-wrapper > div.se-footer-top:first-child > div.se-grid2col > div.se-grid2col__right:last-child
+###__next > div.app-layout_layout__pScH0:first-child > div:last-child > div.styles_footer__09zyc > div > div.page-layout_layout__6ASKD > div > div.grid-module__grid-container--qh6XH.grid-module__grid-container-with-spacing--GAHUX > div.styles_footer-grid__vAAFt.grid-module__grid-layout--Pryfq.grid-module__grid-block--fv06E > div.styles_footer-text__QbRdR:nth-child(5) > span.typography-module__font-text--VszKb.typography-module__font-text-block--Z4rA2.typography-module__font-tag--wcHy8
+###__next > div.app-layout_layout__pScH0:first-child > div:last-child > div.styles_footer__09zyc > div > div.page-layout_layout__6ASKD > div > div.grid-module__grid-container--qh6XH.grid-module__grid-container-with-spacing--GAHUX > div.styles_footer-grid__vAAFt.grid-module__grid-layout--Pryfq.grid-module__grid-block--fv06E > div.styles_footer-social-buttons-grid-item__IE9FA:last-child > div > div.social-media-buttons-module__social-media-buttons--l4igI.social-media-buttons-module__bordered--z5FJH > div.grid-module__grid-container--qh6XH > div.social-media-buttons-module__grid-white--TZ_B8.social-media-buttons-module__between--Tm1vU.grid-module__grid-layout--Pryfq.grid-module__grid-block--fv06E
+###__next > div.app-layout_layout__pScH0:first-child > div:last-child > div.styles_footer__09zyc > div > div.page-layout_layout__6ASKD > div > div.grid-module__grid-container--qh6XH.grid-module__grid-container-with-spacing--GAHUX > div.styles_footer-grid__vAAFt.grid-module__grid-layout--Pryfq.grid-module__grid-block--fv06E > div.styles_footer-copyright-grid-item__t_WZC:nth-child(6)
+##.styles_footer-line-top__i5BdG
+###__next > div.app-layout_layout__pScH0:first-child > div:last-child > div.styles_footer__09zyc > div > div.page-layout_layout__6ASKD > div > div.grid-module__grid-container--qh6XH.grid-module__grid-container-with-spacing--GAHUX > div.styles_footer-grid__vAAFt.grid-module__grid-layout--Pryfq.grid-module__grid-block--fv06E > div.styles_footer-line-bottom__i9Crr:nth-child(7)
+sovsport.ru##.bonus-block_bonus-items__w9GSQ
+sovsport.ru##.bonus-block_bonus-header-text__cQ8fP
+sovsport.ru##.bonus-block_button__jAVT_
+sovsport.ru##.bonus-block_pagination-dots__BGdTR
+sovsport.ru##.social-media-buttons-module__grid-brown--WFDPz.social-media-buttons-module__between--Tm1vU.grid-module__grid-layout--Pryfq.grid-module__grid-block--fv06E
+sovsport.ru##.social-media-buttons-module__social-media-buttons--l4igI.social-media-buttons-module__bordered--z5FJH.social-media-buttons-module__social-media-buttons-white--bcYm7
+hd.kinopoisk.ru###__next > div.styles_root__S2643:last-child > div.styles_wrapper__v_moQ.styles_wrapper_onboarding__41UGs:first-child > header.Header_root__Q5pYC.Header_root_on-top__51Ekf.Header_root_visible__muM5Q.root_onboarding > div.Header_content__qBbUf:last-child > div.HeaderNavigationMenu_root__UvuIH:first-child > div.HeaderNavigationMenu_burger-menu__6SNGw
+hd.kinopoisk.ru##.style_button__PNtXT.styles_button_watch__8ovJc.style_buttonSize60__HO3Od.style_buttonPlus__TjQez.style_buttonLight____6ma.style_withIconLeft___Myt9
+hd.kinopoisk.ru##.styles_content__6qK_R.styles_content_text__JNFn_.styles_trial_days__970mC
+hd.kinopoisk.ru##.puddle_controls__wXC9R
+hd.kinopoisk.ru##.button-plus_root__f7pVq
+##.CookieAllowance_cookiesAllowance__lRAHf, .CookieAllowance_hasCatfish__JzgRq
+###content > div.workarea-text:last-child > div.BonusesList_bonuses__KlZ6D:nth-child(19) > div.ContentBlock_default__vPrLH:last-child
+###content > div:last-child > div.Subscribe_subscribe__Lz7k9:nth-child(3)
+###__next > div:nth-child(6) > footer.Footer_footer__X1Jp0.Footer_paddingForCatfish__51rdt > div.container > div.Footer_footerMain__KgtLe:last-child
+###__next > div:nth-child(6) > footer.Footer_footer__X1Jp0.Footer_paddingForCatfish__51rdt > div.container > nav.Nav_nav__zVJDy:nth-child(2) > div.Nav_col__7GMgV:last-child
+###__next > main.workarea.hasHeaderPromoMenu.hasStickyBookmakers.hasTopBanner.isSport.homePage:nth-child(5) > div.container:last-child > div:first-child > div.ContentBlock_default__vPrLH.SportHome_bonusesCarousel__UhvHp
+###__next > main.workarea.hasHeaderPromoMenu.hasStickyBookmakers.hasTopBanner.isSport.homePage:nth-child(5) > div.container:last-child > div:nth-child(4) > div.ContentBlock_default__vPrLH.Quoted_quoted__zLstX
+###content > div:last-child > div.Subscribe_subscribe__Lz7k9:nth-child(2)
+metaratings.ru##.BonusesList_bonuses__KlZ6D
+##.Subscribe_subscribe__Lz7k9
+##.setting-promo__video, .biijcbh-14pmf7y
+rsport.ria.ru##.article__article.color-font-hover-only.m-image
+sport24.ru##.F8IybL
+sport24.ru##.G9I1bX.RSavmX
+sport24.ru##.VIx8Qp
+sport24.ru##.KYk2Y3.RSavmX
+sport24.ru##.jM6czF.RSavmX
+sport24.ru##.bFYGM6
+sport24.ru##.XXgL0U
+sport24.ru##.IBpAEq
+sport24.ru##.TqUu35.QX5KP4
+sport24.ru##.lK3fKm
+mail.ru##.setting-promo__content.biijcbh-14pmf7y
+##div.app.brace.grid-base:nth-child(7) > footer.footer:nth-child(5) > div.grid-container:first-child > div.grid-row > div.grid-column > div.footer__licence:last-child
+##div.app.brace.grid-base:nth-child(7) > footer.footer:nth-child(5) > div.grid-container:first-child > div.grid-row > div.grid-column > div.footer__sub:nth-child(2)
+##div.app.brace.grid-base:nth-child(7) > footer.footer:nth-child(5) > div.grid-container:first-child > div.grid-row > div.grid-column > div.footer__recommendation-rules:nth-child(3)
+##.footer__licence
+##.footer__sub
+##.footer__recommendation-rules
+###layoutPage > div.b6:first-child > div.nd9_9:last-child > div > div.container.c > div.d3e_9:nth-child(3) > div.de_9.d2e_9.ed1_9 > a.q4b05-a.ed_9.de0_9 > img.de1_9.b933-a
+###layoutPage > div.b6:first-child > div.nd9_9:last-child > div > div.container.c > div.d3e_9:nth-child(3) > div.de_9.d2e_9.ed1_9
+##.cs7_9
+###layoutPage > div.b6:first-child > div.nd9_9:last-child > div > div.container.c > div.ed7_9:nth-child(2)
+###layoutPage > div.b6:first-child > div.nd9_9:last-child > div > div.container.c > div.ed7_9:nth-child(4)
+###layoutPage > div.b6:first-child > div.ed7_9:nth-child(3)
+###layoutPage > div.b6:first-child > div.ed7_9:nth-child(3)
+##.t6c_9
+##.t7c_9
+###app > div.styles-module-theme-rOnN1.styles-module-root-rwWVj > div.styles-module-footer-brg1O:last-child > div.styles-module-theme-_4Zlk.styles-module-root-TAOhE > div.styles-module-container-qluMb.styles-module-container_responsive-vU9iR > div.styles-module-content-l7h_N > div.styles-module-root-RAJ8g.styles-module-margin-top_none-_c4I_.styles-module-margin-bottom_none-QChmM.styles-module-root_direction_vertical-_P4Ac.styles-module-root_fullWidth-_vJox > div.styles-module-root-Zabz6.styles-module-margin-top_10-_s40t.styles-module-margin-bottom_none-QChmM:last-child
+###__aer_root__ > div.MainLayout__root__79bpr.MainLayout__background-white__79bpr > div.snow-container_SnowContainer__container__rkv8lv:nth-child(5)
+###app > div.page-type-article:first-child > div:nth-child(6) > footer.pageFooterTemplate_pPxnV > div.footerWrapper_pPxnV.pb-12.pt-6:last-child > div.content_pPxnV > div.footerText_WiqUi.text-style-ui-caption-3.text_pPxnV:nth-child(9) > div.row_WiqUi.text-style-ui-caption-2
+###app > div.page-type-article:first-child > div:nth-child(6) > footer.pageFooterTemplate_pPxnV > div.footerWrapper_pPxnV.pb-12.pt-6:last-child > div.content_pPxnV > div.mobileApps_k31nA.mb-4.pt-d-0:nth-child(3)
+###app > div.page-type-article:first-child > div:nth-child(6) > footer.pageFooterTemplate_pPxnV > div.footerWrapper_pPxnV.pb-12.pt-6:last-child > div.content_pPxnV > div.blockSocial_M3SNz.footerSocial_pPxnV:nth-child(4)
+##.blockSocial_M3SNz, .footerSocial_pPxnV
+##.mobileAppsLinks_k31nA
+##.draggable_YWdrs, .blockSocialScrollable_M3SNz
+##.mobileApps_k31nA, .mb-4, .pt-d-0
+##.row_WiqUi, .text-style-ui-caption-2
+##._25d45facb5--container--zRDqi, ._25d45facb5--desktop-only--mpeYU
+##._33974c2b58--link--hag1N
+##._33974c2b58--banner--LrtcC, ._33974c2b58--primary-basic--Q0XlD
+###frontend-mainpage > div > section._025a50318d--mainpage--q6lg6 > div > section.cg-container-fluid-xs._025a50318d--container--HEHrF:nth-child(3) > cian-mf-recommendations-micro-frontend-bbf2e3a5--v1-desktop-get-recommendations-micro-frontend > div > div:first-child > div._33974c2b58--list--WBiF_:nth-child(2) > div._33974c2b58--wrapper--nAwRQ:nth-child(3) > ul._33974c2b58--newbuilding-banners-container--RFJwc:first-child > li:first-child > div
+###frontend-mainpage > div > section._025a50318d--mainpage--q6lg6 > div > section.cg-container-fluid-xs._025a50318d--container--HEHrF:nth-child(3) > cian-mf-recommendations-micro-frontend-bbf2e3a5--v1-desktop-get-recommendations-micro-frontend > div > div:first-child > div._33974c2b58--list--WBiF_:nth-child(2) > div._33974c2b58--wrapper--nAwRQ:nth-child(3) > ul._33974c2b58--newbuilding-banners-container--RFJwc:first-child > li:first-child
+ 
+##.ring__spec, .ring__spec-bg
+mk.ru##div.wraper:nth-child(2) > aside.ring:first-child > div.ring__scroll > a.ring__spec.ring__spec-bg:nth-child(2)
+##div.wraper:nth-child(2) > div.wraper__header:nth-child(3) > div.header__fixed > div.header > header.header__content > div.header__aggregation:nth-child(4) > ul.header__social-list:last-child
+##div.wraper:nth-child(2) > div.wraper__header:nth-child(3) > div.header__fixed > div.header > header.header__content > div.header__aggregation:nth-child(4) > a.header__daily-newspaper:nth-child(2)
+##div.wraper:nth-child(2) > div.wraper__header:nth-child(3) > div.header__fixed > div.header > header.header__content > div.header__aggregation:nth-child(4) > a.header__subscription:nth-child(3)
+##.header__subscription
+##.subscription, .subscription_article
+##.footer__text
+##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > div.footer__about:nth-child(8) > p:first-child
+##.footer__copyright
+##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > a:nth-child(9)
+##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > div.footer__legal-information:nth-child(7) > p:nth-child(2)
+##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > div.footer__legal-information:nth-child(7) > p:nth-child(4)
+##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > div.footer__legal-information:nth-child(7) > p:nth-child(3)
+##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > div.footer__legal-information:nth-child(7) > p:nth-child(5)
+rzn.mk.ru##div.wraper:nth-child(2) > div.wraper__footer:last-child > footer.footer > div.footer__legal-information:nth-child(7) > p:nth-child(5)
+rbc.ru##.oprosso.oprosso_right.js-oprosso-main-right.desktop
+cian.ru##._33974c2b58--link--Nk_ly
+cian.ru##._33974c2b58--banner--RH7eg
+cian.ru##._33974c2b58--newbuilding-banners-container--RFJwc
+cian.ru##._33974c2b58--wrapper--nAwRQ
+cian.ru##._025a50318d--link--hag1N
+cian.ru##._025a50318d--banner--LrtcC._025a50318d--brand-pink--p0Oiu
+mk.ru##.footer__about
+www.youtube.com###chat
+www.youtube.com###copyright
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###show-hide-button
+www.youtube.com###voice-search-button
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com##.ytd-live-chat-frame.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .ytd-toggle-button-renderer.style-scope
+www.youtube.com##.ytd-rich-grid-renderer.style-scope > .ytd-feed-filter-chip-bar-renderer.style-scope
